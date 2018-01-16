@@ -3,6 +3,7 @@ leanring material:
 https://medium.com/@kayodeniyi/simplest-react-app-setup-a74277b99e43 (2017)
 https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9 (2016)
 https://webpack.js.org/concepts/configuration/
+http://www.thegreatcodeadventure.com/building-a-simple-crud-app-with-react-redux-part-1/#table-of-contents (2016)
 
 to create a file in cli with content inside
     echo 'mycontent' > myfile
