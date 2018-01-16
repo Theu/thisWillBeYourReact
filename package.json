@@ -18,14 +18,10 @@
   },
   "homepage": "https://github.com/Theu/thisWillBeYourReact#readme",
   "dependencies": {
-    "axios": "^0.17.1",
-    "koa": "^2.4.1",
-    "koa-bodyparser": "^4.2.0",
-    "koa-logger": "^3.1.0",
-    "koa-router": "^7.3.0",
-    "koa-static": "^4.0.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
     "webpack-isomorphic-tools": "^3.0.5"
   },
   "devDependencies": {
