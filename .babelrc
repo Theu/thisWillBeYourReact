@@ -1,1 +1,4 @@
-{ "presets": ["env", "react"] }
+{
+    "plugins": ["transform-runtime"],
+    "presets": ["env", "react", "es2015"]
+}
